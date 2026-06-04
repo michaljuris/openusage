@@ -1,0 +1,25 @@
+.playwright-cli/page-2026-06-04T11-47-48-995Z.yml
+  ai_agent 1-93
+src/hooks/app/use-settings-bootstrap.test.ts
+  ai_agent 67,77,103,123,156,193-214
+src/pages/settings.test.tsx
+  ai_agent 62-63,258-261
+.playwright-cli/page-2026-06-04T11-47-02-331Z.yml
+  ai_agent 1-93
+src/lib/settings.ts
+  ai_agent 25-26,37,49,59,67-68
+.playwright-cli/page-2026-06-04T11-48-53-456Z.yml
+  ai_agent 1-93
+.playwright-cli/page-2026-06-04T11-45-00-389Z.yml
+  ai_agent 1-14
+.playwright-cli/page-2026-06-04T11-48-51-159Z.yml
+  ai_agent 1-93
+src/App.test.tsx
+  ai_agent 314
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.0",
+  "base_commit_sha": "4e03de7953c50e8eceb61735f463c4d34940c677",
+  "prompts": {}
+}
