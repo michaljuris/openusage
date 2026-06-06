@@ -1,0 +1,17 @@
+src-tauri/src/plugin_engine/manifest.rs
+  ai_agent 75-83,92-93,103-119,273-366
+src/App.test.tsx
+  ai_agent 771-831
+src-tauri/src/lib.rs
+  ai_agent 472-474
+docs/plugins/schema.md
+  ai_agent 98-99,106,109-111,120-121,127-131
+src/lib/tray-primary-progress.ts
+  ai_agent 62-65
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.0",
+  "base_commit_sha": "dda805b9a255ba7f66b3070d205bb714fd4b1e1e",
+  "prompts": {}
+}
